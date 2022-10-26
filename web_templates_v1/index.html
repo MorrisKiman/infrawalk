@@ -1,21 +1,25 @@
 <html>
 	<head>
 		<title>Infrawalk Login</title>
-		<link rel="stylesheet" href="styles.css">
+		<link rel="stylesheet" href="assets/styles.css">
 		<link rel="icon" href="infracon.ico">
 	</head>
 	
 	<body class="lg_body">
 		
 		<div class="lg_body_div">
-			<br><br><br><br><br><br><br><br><br>
+			<br><br><br><br><br><br><br><br>
+				<span class="lg_lostcred">
+					Invalid Credentials!
+				</span>
+			<br>
 			<form class="lg_form" action="">
 				<div class="lg_form_header">
 					<h1>Infrawalk Login</h1>
 				</div>
 				<div class="lg_form_body">
-					Username: <input type=text class=lg_txt placeholder="Enter Username" required name="lg_txt_Username"> <br>
-					Password: <input type=password class=lg_txt placeholder="Enter Password" name="lg_txt_Pwd" required> 
+					Username: <input type=text class=lg_txt required name="lg_txt_Username"> <br>
+					Password: <input type=password class=lg_txt  name="lg_txt_Pwd" required> 
 					<div class="lg_btn_div">
 						<button type=submit class=lg_btn>Login</button>					
 					</div>
