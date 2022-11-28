@@ -79,6 +79,10 @@ insert into students_tbl values (student_ID.nextval,'Morris','Ki','Moki@yu.com',
 insert into students_tbl values (student_ID.nextval,'Alex','Wui','alewui@yu.com','84767','OCA cert');
 insert into students_tbl values (student_ID.nextval,'Derrik','Weum','DerriWu@yu.com','9987633','Cyber Sec');
 insert into students_tbl values (student_ID.nextval,'Alex','Wui','alewui@yu.com','987765','Web Dev');
+insert into students_tbl values (student_ID.nextval,'Mini','Kat','minik@yu.com','985767','Web Dev');
+insert into students_tbl values (student_ID.nextval,'Limvo','Minipo','limi@yu.com','907769','Web Dev');
+insert into students_tbl values (student_ID.nextval,'Ndio','Imo','ndii@yu.com','787765','Web Dev');
+insert into students_tbl values (student_ID.nextval,'Yupio','Nwa','yupio@yu.com','187765','Web Dev');
 
 --Host server tables
 insert into hostServer_tbl values ('11.176.15.20','Samba Server');

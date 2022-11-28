@@ -1,6 +1,7 @@
 DIRECTORY STRUCTURE
 1. DOCUMENTATION: Contains the documentation for the project
-2. Java_Interfaces: contains the Java code running the project
+2. Java_Interfaces: contains the UI Templates for the project 
 3. SQL: Contains the SQL code that runs the database. It will be necessary for running migrations etc.
+4.Workbench: contains the java code for the project.
 
 ---In case you need any more help with this, feel free to create an issue.

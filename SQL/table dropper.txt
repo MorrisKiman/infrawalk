@@ -1,0 +1,7 @@
+drop table students_tbl;
+drop table hostServer_tbl;
+drop table servers_tbl;
+drop table databases_tbl;
+drop table special_requests;
+drop table courses_tbl;
+drop table users_tbl;
