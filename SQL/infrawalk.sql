@@ -119,3 +119,5 @@ insert into courses_tbl values (course_id.nextval, 'Certification in Linux Admin
 
 --users
 insert into users_tbl values (user_id.nextval, 'Morris', 'Morrison Kwemi', 'morris', 'morris');
+
+--Commit 
